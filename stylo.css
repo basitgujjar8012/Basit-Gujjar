@@ -1,0 +1,70 @@
+.main{
+    display: flex;
+    margin-top: 0px;
+}
+
+p{
+    margin-top: 2.3rem;
+    margin-left: 1rem;
+}
+
+.bro{
+    display: flex;
+    margin-left: 4rem;
+    margin: 0px;
+    padding: 0px;
+}
+
+.nn{
+    display: flex;
+}
+
+.p1{
+    border: 1px solid darkblue;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.TT{
+    height: 1.5rem;
+    margin-top: 2.3rem;
+}
+
+h6{
+    margin-top: 2.5rem;
+    margin-left: .3rem;
+}
+
+.selector{
+    margin-left: 60rem;
+    margin-top: 2.3rem;
+
+}
+
+select{
+    width: 12rem;
+    height: 2rem;
+}
+
+
+.flex{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 70px;
+    gap: 100px;
+}
+.heart-img{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    padding-left: 220px;
+
+    
+}
+#bb{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    padding-left: 270px;
+}
